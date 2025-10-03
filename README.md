@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝕊𝕌𝔻𝕆_𝕌𝕊𝔼ℝ 𝟞𝟝𝟝𝟛𝟝</h1>
+<h1 align="center">Hi 👋, I'm 𝕊𝕌𝔻𝕆_𝕌𝕊𝔼ℝ 𝕊ℍ𝔸ℝ𝕍𝔸ℕ 𝟞𝟝𝟝𝟛𝟝</h1>
 <h2 align="center">ＣＳ ＯＮＬＹ ＴＨＥ ＷＡＹ!</h2>
 
 - 🌱 I’m currently learning **ON TERMINAL**
