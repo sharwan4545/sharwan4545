@@ -44,7 +44,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sharwan_aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharwan_aaryan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sharwan_aaryavanshi?igsh=MTFxdzdtcmd6cWptcQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharwan_aaryan" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharwan04545&show_icons=true&locale=en" alt="sharwan04545" /></p>
